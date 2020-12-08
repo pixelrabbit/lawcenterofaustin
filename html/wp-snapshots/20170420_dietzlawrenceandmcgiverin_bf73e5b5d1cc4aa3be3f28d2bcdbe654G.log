@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-04-20 02:51:35
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.4
+WORDPRESS:	4.3.9
+PHP INFO:	5.6.21 | SAPI: cgi-fcgi
+SERVER:		Apache/2.2.22 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 38.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:40 | filtered:0 | create:40 
+FILTERED: [] 
+SQL CREATED: 20170420_dietzlawrenceandmcgiverin_bf73e5b5d1cc4aa3be3f28d2bcdbe654G_database.sql 
+SQL FILE SIZE: 5.49MB (5754649) 
+SQL FILE TIME: 2017-04-20 02:51:39 
+SQL RUNTIME: 3.31 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /nfs/c01/h09/mnt/13398/domains/lawcenterofaustin.com/html 
+ARCHIVE FILE: 20170420_dietzlawrenceandmcgiverin_bf73e5b5d1cc4aa3be3f28d2bcdbe654G_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	143.53MB 
+STATS:	Dirs 399 | Files 3,283 
+SQL ADDED: 20170420_dietzlawrenceandmcgiverin_bf73e5b5d1cc4aa3be3f28d2bcdbe654G_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3682
+    [filename] => /nfs/c01/h09/mnt/13398/domains/lawcenterofaustin.com/html/wp-snapshots/tmp/20170420_dietzlawrenceandmcgiverin_bf73e5b5d1cc4aa3be3f28d2bcdbe654G_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 94.81MB 
+ARCHIVE RUNTIME: 22.56 sec. 
+MEMORY STACK: 39.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/nfs/c01/h09/mnt/13398/domains/lawcenterofaustin.com/html/wp-snapshots/tmp/20170420_dietzlawrenceandmcgiverin_bf73e5b5d1cc4aa3be3f28d2bcdbe654G_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 5.49MB 
+Installer File: 419.66KB 
+Archive File: 94.81MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 28.11 sec.
+PEAK PHP MEMORY USED: 41.75MB
+DONE PROCESSING => 20170420_dietzlawrenceandmcgiverin 2017-04-20 02:52:04
+ 

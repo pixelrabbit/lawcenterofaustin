@@ -1,0 +1,11 @@
+
+change logo to match
+
+
+covered - sub pages for services
+appearance menu for editors
+heading link bolder
+center names under profile
+move phone number after menu
+look into accuity 
+fix profile images at tablet size
